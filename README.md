@@ -19,7 +19,8 @@ express.post('/contact', ReCaptchaMiddleware('recaptcha-field-name'), routeHandl
 
 ### Errors
 * `NotFoundReCaptcha` ReCaptcha is missing from `req.body`
-* `InvalidReCaptcha` ReCaptcha has been rejected by Google's servers
+* `InvalidReCaptcha` ReCaptcha has been rejected by Google's servers  
+⋅⋅*property `errorCodes`: contains any errorCode returned
 
 ### Full Example with Express
 
