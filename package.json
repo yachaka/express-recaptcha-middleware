@@ -1,0 +1,26 @@
+{
+  "name": "express-recaptcha-middleware",
+  "version": "1.0.0",
+  "description": "ReCaptcha validation middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yachaka/express-recaptcha-middleware.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "express",
+    "middleware",
+    "middleware",
+    "validation"
+  ],
+  "author": "Ilyes Hermellin <ihermell@student.42.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yachaka/express-recaptcha-middleware/issues"
+  },
+  "homepage": "https://github.com/yachaka/express-recaptcha-middleware#readme"
+}
