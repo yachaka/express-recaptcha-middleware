@@ -1,10 +1,14 @@
 # express-recaptcha-middleware
 Validates Google ReCaptcha, and rejects the request on error.  
 
-[Dependency](#Dependency)  
-[Usage](#Usage)  
-[Errors](#Errors)  
-[Full example](#Full example)
+[Dependency](#dependency)  
+[Usage](#usage)  
+[Errors](#errors)  
+[Full example](#full-example-with-express)
+
+```sh
+npm install --save express-recaptcha-middleware
+```
 
 ### Dependency
 
